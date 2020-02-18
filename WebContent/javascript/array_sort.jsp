@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>array_sort</title>
+<script src="../lib/jquery-3.4.1.js"></script>
 </head>
 <body>
 
